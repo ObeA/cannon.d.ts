@@ -1,5 +1,5 @@
 {
-  "name": "cannon.d.ts",
+  "name": "@types/cannon.d.ts",
   "version": "1.0.2",
   "description": "TypeScript Definitions for CannonJS",
   "main": "cannon.d.ts",
