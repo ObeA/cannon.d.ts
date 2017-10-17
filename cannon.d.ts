@@ -950,6 +950,7 @@
             HEIGHTFIELD: number;
             PARTICLE: number;
             CYLINDER: number;
+            TRIMESH: number;
 
         }
 
