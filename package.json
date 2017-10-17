@@ -1,0 +1,16 @@
+{
+  "name": "cannon.d.ts",
+  "version": "1.0.0",
+  "description": "TypeScript Definitions for CannonJS",
+  "main": "cannon.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clark-stevenson/cannon.d.ts.git"
+  },
+  "author": "clark-stevenson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clark-stevenson/cannon.d.ts/issues"
+  },
+  "homepage": "https://github.com/clark-stevenson/cannon.d.ts#readme"
+}
