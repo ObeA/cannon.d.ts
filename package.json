@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "TypeScript Definitions for CannonJS",
   "main": "cannon.d.ts",
+  "types": "cannon.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/clark-stevenson/cannon.d.ts.git"
