@@ -1,6 +1,6 @@
 {
   "name": "cannon.d.ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypeScript Definitions for CannonJS",
   "main": "cannon.d.ts",
   "repository": {

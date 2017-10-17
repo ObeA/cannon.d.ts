@@ -1194,3 +1194,7 @@
     }
 
 }
+
+declare module "cannon" {
+    export = CANNON;
+}
