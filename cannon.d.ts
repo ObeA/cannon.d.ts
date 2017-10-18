@@ -770,7 +770,7 @@
 
         constructor(options?: IRigidVehicleOptions);
 
-        addWheel(options?: IWheelInfoOptions): Body;
+        addWheel(options?: IWheelInfoOptions): number;
         setSteeringValue(value: number, wheelIndex: number): void;
         setMotorSpeed(value: number, wheelIndex: number): void;
         disableMotor(wheelIndex: number): void;
