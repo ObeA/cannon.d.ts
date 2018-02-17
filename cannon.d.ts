@@ -764,7 +764,7 @@
             wheelBodies: Body[];
             coordinateSystem: Vec3;
             chassisBody: Body;
-            constraints: Constraint[];
+            constraints: HingeConstraint[];
             wheelAxes: Vec3[];
             wheelForces: Vec3[];
     
